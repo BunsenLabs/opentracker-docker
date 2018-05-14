@@ -1,1 +1,5 @@
 Docker container definition for deploying tracker.bunsenlabs.org.
+
+## Notes
+
+  * Privilege dropping is handled by opentracker, not supervisord.
